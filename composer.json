@@ -1,0 +1,15 @@
+{
+    "name": "1184680941/wfq",
+    "description": "wangfuqiang's demo",
+    "type": "project",
+    "require": {
+        "houdunwang/hdphp": "*"
+    },
+    "authors": [
+        {
+            "name": "1184680941",
+            "email": "1184680941@qq.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
